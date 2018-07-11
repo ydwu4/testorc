@@ -19,8 +19,8 @@
 #ifndef ORC_TYPE_HH
 #define ORC_TYPE_HH
 
-#include "orc/orc-config.hh"
-#include "orc/Vector.hh"
+#include "orc-config.hh"
+#include "Vector.hh"
 #include "MemoryPool.hh"
 
 namespace orc {

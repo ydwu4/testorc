@@ -19,7 +19,7 @@
 #ifndef ORC_VECTOR_HH
 #define ORC_VECTOR_HH
 
-#include "orc/orc-config.hh"
+#include "orc-config.hh"
 #include "MemoryPool.hh"
 #include "Int128.hh"
 

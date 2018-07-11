@@ -19,11 +19,11 @@
 #ifndef ORC_READER_HH
 #define ORC_READER_HH
 
-#include "orc/Common.hh"
-#include "orc/orc-config.hh"
-#include "orc/Statistics.hh"
-#include "orc/Type.hh"
-#include "orc/Vector.hh"
+#include "Common.hh"
+#include "orc-config.hh"
+#include "Statistics.hh"
+#include "Type.hh"
+#include "Vector.hh"
 
 #include <memory>
 #include <string>

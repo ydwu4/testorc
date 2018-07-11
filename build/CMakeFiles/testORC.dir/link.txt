@@ -1,1 +1,1 @@
-/usr/bin/c++      CMakeFiles/testORC.dir/test.cpp.o  -o testORC -rdynamic liborc.a liblz4.a libsnappy.a libprotobuf.a libz.a libprotoc.a 
+/data/opt/brew/bin/c++    -rdynamic CMakeFiles/testORC.dir/test.cpp.o  -o testORC ../orc/lib/liborc.a ../orc/lib/liblz4.a ../orc/lib/libsnappy.a ../orc/lib/libprotobuf.a ../orc/lib/libz.a ../orc/lib/libprotoc.a 

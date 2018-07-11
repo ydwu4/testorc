@@ -19,7 +19,7 @@
 #ifndef ORC_EXCEPTIONS_HH
 #define ORC_EXCEPTIONS_HH
 
-#include "orc/orc-config.hh"
+#include "orc-config.hh"
 
 #include <stdexcept>
 #include <string>

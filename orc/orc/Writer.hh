@@ -19,10 +19,10 @@
 #ifndef ORC_WRITER_HH
 #define ORC_WRITER_HH
 
-#include "orc/Common.hh"
-#include "orc/orc-config.hh"
-#include "orc/Type.hh"
-#include "orc/Vector.hh"
+#include "Common.hh"
+#include "orc-config.hh"
+#include "Type.hh"
+#include "Vector.hh"
 
 #include <memory>
 #include <string>

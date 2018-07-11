@@ -5,7 +5,7 @@ project(testORC)
 set(CMAKE_CXX_STANDARD 11)
 
 add_executable(testORC test.cpp)
-include_directories(${CMAKE_BINARY_DIR}/../orc)
+include_directories(${CMAKE_HOME_DIRECTORY}/orc)
 
-target_link_libraries(testORC ${CMAKE_BINARY_DIR}/liborc.a ${CMAKE_BINARY_DIR}/liblz4.a
-  ${CMAKE_BINARY_DIR}/libsnappy.a ${CMAKE_BINARY_DIR}/libprotobuf.a ${CMAKE_BINARY_DIR}/libz.a ${CMAKE_BINARY_DIR}/libprotoc.a)
+target_link_libraries(testORC ${CMAKE_HOME_DIRECTORY}/orc/lib/liborc.a ${CMAKE_HOME_DIRECTORY}/orc/lib/liblz4.a
+  ${CMAKE_HOME_DIRECTORY}/orc/lib/libsnappy.a ${CMAKE_HOME_DIRECTORY}/orc/lib/libprotobuf.a ${CMAKE_HOME_DIRECTORY}/orc/lib/libz.a ${CMAKE_HOME_DIRECTORY}/orc/lib/libprotoc.a)

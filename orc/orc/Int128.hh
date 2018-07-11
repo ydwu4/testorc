@@ -19,7 +19,7 @@
 #ifndef ORC_INT_128
 #define ORC_INT_128
 
-#include "orc/orc-config.hh"
+#include "orc-config.hh"
 
 #include <stdexcept>
 #include <string>

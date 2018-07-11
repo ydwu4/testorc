@@ -21,9 +21,9 @@
 
 #include <string>
 
-#include "orc/orc-config.hh"
-#include "orc/Reader.hh"
-#include "orc/Writer.hh"
+#include "orc-config.hh"
+#include "Reader.hh"
+#include "Writer.hh"
 
 /** /file orc/OrcFile.hh
     @brief The top level interface to ORC.

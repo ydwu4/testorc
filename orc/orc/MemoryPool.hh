@@ -19,8 +19,8 @@
 #ifndef MEMORYPOOL_HH_
 #define MEMORYPOOL_HH_
 
-#include "orc/orc-config.hh"
-#include "orc/Int128.hh"
+#include "orc-config.hh"
+#include "Int128.hh"
 
 #include <memory>
 

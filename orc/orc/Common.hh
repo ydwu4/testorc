@@ -19,9 +19,9 @@
 #ifndef ORC_COMMON_HH
 #define ORC_COMMON_HH
 
-#include "orc/Vector.hh"
-#include "orc/Type.hh"
-#include "orc/Exceptions.hh"
+#include "Vector.hh"
+#include "Type.hh"
+#include "Exceptions.hh"
 
 #include <string>
 

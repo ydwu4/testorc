@@ -19,9 +19,9 @@
 #ifndef ORC_STATISTICS_HH
 #define ORC_STATISTICS_HH
 
-#include "orc/orc-config.hh"
-#include "orc/Type.hh"
-#include "orc/Vector.hh"
+#include "orc-config.hh"
+#include "Type.hh"
+#include "Vector.hh"
 
 namespace orc {
 
