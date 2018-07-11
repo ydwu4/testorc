@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testORC.dir/test.cpp.o  -o testORC -rdynamic liborc.a liblz4.a libsnappy.a libprotobuf.a libz.a libprotoc.a 
